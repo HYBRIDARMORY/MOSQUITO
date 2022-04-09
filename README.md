@@ -1,3 +1,6 @@
+![DSCF1460 (1)](https://user-images.githubusercontent.com/48244428/162574179-3d43ab13-ac6e-46c0-b819-9d50e54e488c.png)
+
+
 # MOSQUITO Open Beta Test
 This repository contains STEP and STL files for the open beta test of the MOSQUITO airsoft kit created by HYBRID AIRSOFT.
 

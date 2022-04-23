@@ -14,4 +14,4 @@ See https://www.gnu.org/licenses/gpl-3.0.html for details.
 # Links
 * Join the [HYBRID AIRSOFT discord server](https://discord.gg/wH6s8uHBqA) to keep up to date with the open beta test and be part of the development.
 * [MOSQUITO Open Beta 3D Printing Instructions](https://docs.google.com/document/d/1kqWG-TOsJjRPDSbVY6bi2dQMkjYvka-6bJ_FgsT6_X4/edit?usp=sharing)
-* The assembly instructions will be completed soon.
+* [MOSQUITO Open Beta Assembly Instructions](https://docs.google.com/document/d/1_M94b7ihI5KFHJDytwzVnBls3gHmH3xL-VCuo3qkFms/edit?usp=sharing)

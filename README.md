@@ -4,7 +4,7 @@
 # MOSQUITO Open Beta Test
 This repository contains STEP and STL files for the open beta test of the MOSQUITO airsoft kit created by HYBRID AIRSOFT.
 
-The MOSQUITO is an open-source, modular, 3D-printed airsoft kit designed to dominate the airsoft battlefield with overwhelming practicality and adaptability. 
+The MOSQUITO is an open-source, modular, 3D-printed airsoft kit designed to take a V3 gearbox and hop-up chamber from a TM-based AK platform and turn them into a pure menacing machine on the airsoft battlefield, being super compact and lightweight with the same fire power as any other gun. 
 
 # License
 Unless otherwise stated, all MOSQUITO files in this repository are licensed under GNU GPL V3 or later.

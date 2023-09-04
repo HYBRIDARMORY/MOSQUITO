@@ -2,7 +2,7 @@
 ![double](https://github.com/HYBRIDAIRSOFT/MOSQUITO/assets/48244428/99799523-23fc-4947-965c-132c4838c292)
 
 # MOSQUITO Open Beta 2 Test
-This repository contains STEP and STL files for the Open Beat 2 test of the MOSQUITO airsoft kit created by HYBRID AIRSOFT.
+This repository contains STEP and STL files for the MOSQUITO Open Beta 2 airsoft kit created by HYBRID AIRSOFT.
 
 The MOSQUITO by HYBRID AIRSOFT is an open-source, 3D printed airsoft kit purposefully designed to be super compact and lightweight, enabling you to be the real menace on the airsoft battlefield.
 

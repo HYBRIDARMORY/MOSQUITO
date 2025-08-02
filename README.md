@@ -15,5 +15,5 @@ See https://creativecommons.org/licenses/by-nc/4.0/legalcode for details.
 * Read the [MOSQUITO Open Beta 2 Handbook](https://docs.google.com/document/d/1genB__vvTqGqmkBy53cXZScM0wUJlerKnR1uYOOMI4s/edit?usp=sharing) for 3D printing and assembly instructions.
 * [Link to Github source for STEP files](https://github.com/HYBRIDARMORY/MOSQUITO)
 * [Printables page](https://www.printables.com/model/564524-mosquito-airsoft-kit-open-beta-2)
-* Join the [HYBRID AIRSOFT discord server](https://discord.gg/KNHaRH5ETb) for any help you may need (3000+ members!) and also to provide feedback on the kit. Check out the history of development too!
+* Join the [HYBRID ARMORY discord server](https://discord.gg/KNHaRH5ETb) for any help you may need (3000+ members!) and also to provide feedback on the kit. Check out the history of development too!
 * For any additional information or further inquiries, contact jon@hybrid-armory.com

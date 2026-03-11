@@ -22,6 +22,7 @@ Unless otherwise stated, all MOSQUITO files in this repository are licensed unde
 See https://creativecommons.org/licenses/by-nc/4.0/legalcode for details.
 
 # Other Links
+* [HYBRID ARMORY website](https://www.printables.com/@HYBRIDARMORY_244519)
 * [MOSQUITO MK1 Printables page](https://www.printables.com/model/1403014-mosquito-mk1-airsoft-kit)
 * [MOSQUITO MK1 MakerWorld page](https://makerworld.com/en/models/1906522-mosquito-mk1-airsoft-kit#profileId-2043929)
 * Join the [HYBRID ARMORY discord server](https://discord.gg/KNHaRH5ETb) for any help you may need (3000+ members!) and also to provide feedback on the kit. Check out the history of development too!

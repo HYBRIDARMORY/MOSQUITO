@@ -1,5 +1,4 @@
-
-<img width="2481" height="3508" alt="CoverMK1page" src="https://github.com/user-attachments/assets/b0763ec0-ae14-4ce3-be56-998d2438d1c6" />
+<img width="2000" height="2828" alt="MOSQUITOMK1_Part1" src="https://github.com/user-attachments/assets/d9c94963-78bb-4d45-a0f4-45a39bcdee6f" />
 
 # MOSQUITO MK1 Final Release
 This repository contains STEP and STL files for the MOSQUITO MK1 airsoft kit created by HYBRID ARMORY.
@@ -22,7 +21,7 @@ Unless otherwise stated, all MOSQUITO files in this repository are licensed unde
 See https://creativecommons.org/licenses/by-nc/4.0/legalcode for details.
 
 # Other Links
-* [HYBRID ARMORY website](https://www.printables.com/@HYBRIDARMORY_244519)
+* [HYBRID ARMORY website](https://hybridarmory.com/)
 * [MOSQUITO MK1 Printables page](https://www.printables.com/model/1403014-mosquito-mk1-airsoft-kit)
 * [MOSQUITO MK1 MakerWorld page](https://makerworld.com/en/models/1906522-mosquito-mk1-airsoft-kit#profileId-2043929)
 * Join the [HYBRID ARMORY discord server](https://discord.gg/KNHaRH5ETb) for any help you may need (3000+ members!) and also to provide feedback on the kit. Check out the history of development too!
